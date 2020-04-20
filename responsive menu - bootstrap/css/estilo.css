@@ -2,11 +2,11 @@
      color: white;
 }
 .modal-body{
-    background-color:darkgray;
-    height: 900px;
+    background-color:rgb(192, 181, 181);
+    /* height: 900px;*/
 }
 .form-control{
-    min-width:300px; /* no minimo que vai ocupar na tela */ 
+    min-width:200px; /* no minimo que vai ocupar na tela */ 
     max-width: 600px;
 }
 .jumbotron{
